@@ -1,0 +1,11 @@
+.footer {
+    font-size: 15px;
+    color: #teal;
+    letter-spacing: 5px;
+    border: 1px solid teal;
+    padding: 20px 20px 20px 20px;
+    max-width: 300px;
+    margin: 0 auto;
+    line-height: 15px;
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+.navigation {
+    list-style: none;
+    padding-left: 0;
+    padding-bottom: 15px;
+    border-bottom: 1px solid teal;
+    margin-bottom: 0;
+    text-align: center;
+}
+.navigation__item {
+    margin: 10px 0;
+}
+.navigation__link {
+    color: teal;
+    text-decoration: none;
+}
+.navigation__link:hover {
+    color: #ff0000;
+}
+.navigation__link:active {
+    color: #00ff4c;
+}

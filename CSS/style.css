@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    color: teal;
+    margin: 0;
+}
+
+.body--grey {
+    background-color: #3e3d3f;
+}
