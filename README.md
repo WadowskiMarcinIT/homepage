@@ -1,6 +1,6 @@
 # Marcin Wadowski - moja strona
 
-![Marcin](homepage\images\Marcin Wadowski.jpg)
+![Marcin] (images/Marcin.jpg)
 
 ## Demo
 
